@@ -1,0 +1,13 @@
+.navbar-main-container{
+    height: 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 0 0 16px wheat;
+    background-color: #FFFFFF;
+}
+.navbar-main-container2{
+    display: flex;
+    gap: 10px;
+    justify-content: space-around;
+}
